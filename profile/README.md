@@ -26,6 +26,8 @@
 <br />
 <br />
 
+<img src="https://streak-stats.demolab.com/?user=mrmeaow&theme=github-dark&hide_border=true" />
+
 ---
 
 # Languages and Tools
