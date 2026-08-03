@@ -1,3 +1,99 @@
+<!--
+<p align="center">
+  <img src="./github-banner.png" alt="Mahbuba Sultana Banner" width="100%" />
+</p> -->
+
+<h3 align="center">
+Full-stack Engineer (BE Heavy) | Node.js x TypeScript x Linux lover :)
+</h3>
+
+<p align="center">
+  <a href="https://github.com/mrmeaow">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mrmeaow">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:iam.mahabub@proton.me">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/mrmeaow">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+A passionate full-stack SDE, and linux lover!
+
+---
+
+## 🚀 Current Activities
+
+- 🌱 Learning **System Design**, **Modular Monolith** for scale-ready and **Distributed Systems**
+- 💻 Building real-world product e.g. ERP SaaS for SMBs-SMEs
+- 🤝 Looking to collaborate on **Open Source** and **Founding** level developer/engineer for products,projects etc.
+- 💬 Ask me about **Backend APIs**, **Node.js & TypeScript**, **Database**, and **Linux** etc.
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,python,c,java" />
+</p>
+
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=vite,react,tailwind,angular,electron,svelte" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### Database & MQs
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq" />
+</p>
+
+### Tools & Others
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,graphql,bash,linux,docker,vscode" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email:** iam.mahabub@proton.me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mrmeaow
+- 💻 **GitHub:** https://github.com/mrmeaow
+- 🧩 **LeetCode:** https://leetcode.com/mrmeaow
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrmeaow&theme=github-dark&hide_border=true" />
+</p>
+
+
+
+
+
+<!--
 <h3 align="center">A passionate full-stack SDE, and linux lover!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmeaow&label=Profile%20views&color=0e75b6&style=flat" alt="mrmeaow" /> </p>
@@ -21,6 +117,7 @@
 - 📄 Know about my experiences [<will_be_updated_soon>](<will_be_updated_soon>)
 -->
 
+<!--
 - ⚡ Fun fact: **I’m building and launching products as I move toward self-employment — exciting times ahead!** \{ON_GOING\}
 
 <br />
@@ -72,4 +169,4 @@
 
 - <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a> **Bash**
 
----
+-->
