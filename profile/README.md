@@ -11,7 +11,7 @@ Full-stack SWE | Node.js x TypeScript x Linux lover :)
   <a href="https://github.com/mahabubone">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mrmeaow">
+  <a href="https://www.linkedin.com/in/mahabubone">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mahabub.one@yahoo.com">
@@ -77,7 +77,7 @@ A passionate full-stack SDE, and linux lover!
 ## 📫 Connect with Me
 
 - 📧 **Email:** mahabub.one@yahoo.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mrmeaow
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mahabubone
 - 💻 **GitHub:** https://github.com/mahabubone
 - 🧩 **LeetCode:** https://leetcode.com/mahabubone
 
