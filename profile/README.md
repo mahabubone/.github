@@ -26,7 +26,7 @@ Full-stack SWE | Node.js x TypeScript x Linux lover :)
 
 ## 👩‍💻 About Me
 
-A passionate full-stack SDE, and linux lover!
+A passionate full-stack SDE, and linux lover! And, also a writer (_becoming_) by following hobbies
 
 ---
 
