@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark-terminal.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dark-terminal.svg" />
-  <img alt="mahabubone's GitHub profile" src="./dark-terminal.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark-terminal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dark-terminal.svg" />
+  <img alt="mahabubone's GitHub profile" src="dark-terminal.svg" />
 </picture>
 
 
