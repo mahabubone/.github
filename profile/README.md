@@ -1,10 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/gitascii-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="../assets/gitascii-view.svg" />
-  <img alt="mahabubone's GitHub profile" src="../assets/gitascii-view.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/dark-profile-into.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="../assets/dark-profile-into.svg" />
+  <img alt="mahabubone's GitHub profile" src="../assets/dark-profile-into.svg" />
 </picture>
 
-<!--
+
 <h3 align="center">
 Full-stack SWE | Node.js x TypeScript x Linux lover :)
 </h3>
@@ -91,7 +91,6 @@ A passionate full-stack SDE, and linux lover! And, also a writer (_becoming_) by
   <img src="https://streak-stats.demolab.com?user=mahabubone&theme=github-dark&hide_border=true" />
 </p>
 
--->
 
 
 
