@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahabubone/.github/main/profile/dark-terminal.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahabubone/.github/main/profile/dark-terminal.svg />
-  <img alt="mahabubone's GitHub profile" src="https://raw.githubusercontent.com/mahabubone/.github/main/profile/dark-terminal.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahabubone/.github/610e2cf53f4df6e02080aac4dbbbac78f972408d/profile/dark-terminal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahabubone/.github/610e2cf53f4df6e02080aac4dbbbac78f972408d/profile/dark-terminal.svg" />
+  <img alt="mahabubone's GitHub profile" src="https://raw.githubusercontent.com/mahabubone/.github/610e2cf53f4df6e02080aac4dbbbac78f972408d/profile/dark-terminal.svg" />
 </picture>
 
 
