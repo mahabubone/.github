@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark-terminal.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dark-terminal.svg" />
-  <img alt="mahabubone's GitHub profile" src="dark-terminal.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahabubone/.github/main/profile/dark-terminal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahabubone/.github/main/profile/dark-terminal.svg />
+  <img alt="mahabubone's GitHub profile" src="https://raw.githubusercontent.com/mahabubone/.github/main/profile/dark-terminal.svg" />
 </picture>
 
 
@@ -53,7 +53,7 @@ A passionate full-stack SDE, and linux lover! And, also a writer (_becoming_) by
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vite,react,tailwind,angular,electron,svelte" />
+<img src="https://skillicons.dev/icons?i=vite,react,tailwind,angular,electron,svelte,astro" />
 </p>
 
 ### Backend
@@ -65,13 +65,13 @@ A passionate full-stack SDE, and linux lover! And, also a writer (_becoming_) by
 ### Database & MQs
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq" />
+<img src="https://skillicons.dev/icons?i=postgresql,redis,sqlite,mongodb,rabbitmq" />
 </p>
 
 ### Tools & Others
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,graphql,bash,linux,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,graphql,bash,linux,docker,ubuntu,vitest" />
 </p>
 
 ---
